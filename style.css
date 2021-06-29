@@ -342,7 +342,7 @@ html {
   position: absolute;
   top: 300vh;
   width: 100vw;
-  height: 130vh;
+  height: 128vh;
   background: #fffede;
 }
 
@@ -522,13 +522,13 @@ iframe {
 .footer {
   position: absolute;
   width: 100vw;
-  height: 20vh;
+  height: 22vh;
   top: 430vh;
   background: #ffe1ba;
   text-align: center;
   font-weight: 1000;
   font-size: 13px;
-  line-height: 4vh;
+  line-height: 3vh;
 }
 
 /*---回頂端按鈕---*/
