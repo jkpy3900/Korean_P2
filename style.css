@@ -522,13 +522,13 @@ iframe {
 .footer {
   position: absolute;
   width: 100vw;
-  height: 18vh;
-  top: 432vh;
+  height: 20vh;
+  top: 430vh;
   background: #ffe1ba;
   text-align: center;
   font-weight: 1000;
   font-size: 13px;
-  line-height: 5vh;
+  line-height: 4vh;
 }
 
 /*---回頂端按鈕---*/
